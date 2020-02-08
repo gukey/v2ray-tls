@@ -1,7 +1,8 @@
+# V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本
 
-> 感谢 JetBrains 提供的非商业开源软件开发授权
+- 感谢 JetBrains 提供的非商业开源软件开发授权
 
-> Thanks for non-commercial open source development authorization by JetBrains
+- Thanks for non-commercial open source development authorization by JetBrains
 
 #准备
 
