@@ -1,11 +1,7 @@
 ## V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本
 
 > 感谢 JetBrains 提供的非商业开源软件开发授权
-
 > Thanks for non-commercial open source development authorization by JetBrains
-### Telegram 群组
-* telegram 交流群:https://t.me/wulabing_v2ray 
-* telegram 更新公告频道：https://t.me/wulabing_channel
 
 ### 准备工作
 * 准备一个域名，并将A记录添加好。
@@ -29,7 +25,6 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 > 更新内容请查看 CHANGELOG.md
 
 ### 鸣谢
-* ~~本脚本的另一个分支版本（Use Host）地址： https://github.com/dylanbai8/V2Ray_ws-tls_Website_onekey 请根据需求进行选择~~ 该作者可能已停止维护
 * 本脚本中 MTProxy-go TLS 版本项目引用 https://github.com/whunt1/onekeymakemtg 在此感谢 whunt1
 * 本脚本中 锐速4合1脚本原项目引用 https://www.94ish.me/1635.html 在此感谢
 * 本脚本中 锐速4合1脚本修改版项目引用 https://github.com/ylx2016/Linux-NetSpeed 在此感谢 ylx2016
@@ -85,14 +80,6 @@ Nginx 目录： `/etc/nginx`
 
 证书文件: `/data/v2ray.key 和 /data/v2ray.crt` 请注意证书权限设置
 
-### 捐赠
 
-目前支持通过 MugglePay 接受虚拟货币捐赠
-
-𝒘𝒖𝒍𝒂𝒃𝒊𝒏𝒈 邀请您使用麻瓜宝，基于Telegram的电子钱包，匿名支付0手续费秒级到账。https://telegram.me/MugglePayBot?start=T3Y78AZ3
-
-您可以通过Telegram向我匿名捐赠：发送 /pay @wulabing xxx  到 @MugglePayBot 即可 默认货币为 USDT 
-
-如需要通过支付宝/微信捐赠，请Telegram私聊 @wulabing 感谢您的支持
 
 
