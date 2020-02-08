@@ -8,11 +8,11 @@
 
 ## 安装/更新方式（h2 和 ws 版本已合并）
 
-Vmess+websocket+TLS+Nginx+Website
+
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/kenzok8/v2ray-tls/master/install.sh)
 ```
-or
+
 ```bash
 bash <(curl -s -L https://git.io/Jvn1S)
 ```
