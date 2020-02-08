@@ -62,5 +62,3 @@ Nginx 目录： `/etc/nginx`
 证书文件: `/data/v2ray.key 和 /data/v2ray.crt` 请注意证书权限设置
 
 
-
-
