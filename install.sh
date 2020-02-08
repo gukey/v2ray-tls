@@ -188,7 +188,7 @@ dependency_install(){
     fi
 
 #    ${INS} -y install rng-tools
-#    judge "rng-tools 安装"
+#    judge "rng-tools 安装" 
 
     ${INS} -y install haveged
 #    judge "haveged 安装"
